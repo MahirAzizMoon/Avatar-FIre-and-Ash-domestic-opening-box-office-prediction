@@ -1,4 +1,4 @@
-# Opening Week Box Office Revenue Prediction
+# Avatar: Fire and Ash domestic opening Week Box Office Revenue Prediction
 
 This project builds an end-to-end machine learning pipeline to predict the **opening domestic week box office revenue** of an unreleased film, using *Avatar: Fire and Ash* as a case study.
 
