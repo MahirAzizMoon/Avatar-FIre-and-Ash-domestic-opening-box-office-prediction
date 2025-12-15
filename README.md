@@ -24,4 +24,4 @@ Opening-week revenue is a key indicator of a film’s commercial performance. Th
 The final prediction should be interpreted as a baseline estimate. Factors such as marketing spend, theater count, and franchise-specific effects are not fully captured.
 
 ## Author
-Mahir Aziz Moon
+Mohammad Mahir Aziz
